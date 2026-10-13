@@ -53,4 +53,4 @@ Dalam pengembangan antarmuka aplikasi **In the kost**, digunakan kombinasi berba
 
 1. **Clone Repository ini:**
    ```bash
-   git clone [https://github.com/USERNAME-KAMU/in-the-kost-pbb.git](https://github.com/USERNAME-KAMU/in-the-kost-pbb.git)
+   git clone [https://github.com/USERNAME-KAMU/in-the-kost.git](https://github.com/USERNAME-KAMU/in-the-kost.git)
